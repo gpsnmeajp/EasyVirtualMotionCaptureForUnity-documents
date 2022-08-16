@@ -1,7 +1,13 @@
-site_name: EasyVirtualMotionCaptureForUnity-documents
+site_name: EasyVirtualMotionCaptureForUnity
+site_description: Easily add virtual VRM bodies to your scenes.
 site_url: https://gpsnmeajp.github.io/EasyVirtualMotionCaptureForUnity-documents/
+repo_url: https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity
+repo_name: EasyVirtualMotionCaptureForUnity
 theme:
   name: material
+  custom_dir: overrides
+  logo: image/icon.gif
+  favicon: image/icon.gif
   language: ja
   features:
     - navigation.instant
