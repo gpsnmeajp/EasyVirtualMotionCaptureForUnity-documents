@@ -1,5 +1,5 @@
 site_name: EasyVirtualMotionCaptureForUnity
-site_description: Easily add virtual VRM bodies to your scenes.
+site_description: EVMC4U Offical Document / EVMC4U公式ページ
 site_url: https://gpsnmeajp.github.io/EasyVirtualMotionCaptureForUnity-documents/
 repo_url: https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity
 repo_name: EasyVirtualMotionCaptureForUnity
@@ -49,6 +49,7 @@ markdown_extensions:
       pygments_style: monokai
       linenums: true
   - pymdownx.tilde:
+  - admonition:
 
 extra_css:
   - stylesheets/extra.css

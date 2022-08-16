@@ -27,6 +27,7 @@ With a single Unity Package, you can easily handle both new and existing scenes.
 本ソフトウェアをもとに、[VMCProtocol](https://protocol.vmc.info/)が作成されました。  
 [VMCProtocol](https://protocol.vmc.info/) was created based on this software.
 
+** Unity2019.4.29f1 (v3.8~)で動作確認しています。**  
 Confirmed with Unity2019.4.29f1 (v3.8~)
 
 <img width="320px" src="https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity/blob/README-image/ExternalReceiver.gif?raw=true"></img> 
@@ -35,4 +36,4 @@ Confirmed with Unity2019.4.29f1 (v3.8~)
 
 ## 作者 / Auther
 gpsnmeajp  
-https://sabowl.sakura.ne.jp/gpsnmeajp/  
+[https://sabowl.sakura.ne.jp/gpsnmeajp/](https://sabowl.sakura.ne.jp/gpsnmeajp/)
