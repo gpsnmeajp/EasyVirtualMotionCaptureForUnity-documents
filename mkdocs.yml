@@ -2,6 +2,7 @@ site_name: EasyVirtualMotionCaptureForUnity-documents
 
 theme:
   name: material
+  language: ja
   features:
     - navigation.instant
     - navigation.tabs
@@ -14,12 +15,14 @@ theme:
 
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
+      primary: green
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
+      primary: green
       scheme: default 
       toggle:
         icon: material/brightness-7
@@ -27,6 +30,7 @@ theme:
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
+      primary: green
       scheme: slate
       toggle:
         icon: material/brightness-4
