@@ -1,5 +1,5 @@
 site_name: EasyVirtualMotionCaptureForUnity-documents
-
+site_url: https://gpsnmeajp.github.io/EasyVirtualMotionCaptureForUnity-documents/
 theme:
   name: material
   language: ja
@@ -42,6 +42,7 @@ markdown_extensions:
       noclasses: true
       pygments_style: monokai
       linenums: true
+  - pymdownx.tilde:
 
 extra_css:
   - stylesheets/extra.css
