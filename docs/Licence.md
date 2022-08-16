@@ -1,0 +1,1 @@
+[https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity/blob/master/LICENSE](https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity/blob/master/LICENSE)
