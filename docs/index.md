@@ -1,43 +1,33 @@
-# Welcome to MkDocs
-[<img src="https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity/blob/README-image/title3.png?raw=true"></img>](https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity/wiki)  
-# [#EVMC4U](https://twitter.com/search?q=%23EVMC4U%20) - EasyVirtualMotionCaptureForUnity
-**かんたんにばもきゃとUnityつなぐやつ**  
-[バーチャルモーションキャプチャー](https://sh-akira.github.io/VirtualMotionCapture/)からOSCで姿勢情報を受信してUnityシーンに反映するスクリプト群です。  
-UnityPackage1つで簡単導入、ランタイムでももちろん動作。プロトコルは[VirtualMotionCaptureProtocol](https://sh-akira.github.io/VirtualMotionCaptureProtocol/)に準拠。  
-  
-あなたのしたい表現、使いたい機能、アセットを邪魔しません。  
-~~Unity5.6.3p1 〜 Unity2019.3(beta)まで動作確認済み(～v3.6)~~  
-~~Unity2018.4.23f1 〜 Unity2020.1.2.f1まで動作確認済み(v3.7)~~  
-Unity2019.4.29f1で動作確認済み(v3.8～)  
+# EVMC4U - EasyVirtualMotionCaptureForUnity
+<img src="https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity/blob/README-image/title3.png?raw=true"></img>  
 
-[VMC Protocol 対応](https://sh-akira.github.io/VirtualMotionCaptureProtocol/)  
+## Menu
+
++ [ダウンロード / Download](Download)
++ [使い方 / How to use](HowToUse)
++ [利用条件 / Licence](Licence)
++ [上級者向けの使い方とサンプル / Advanced Use & Sample scripts](Advanced)
++ [よくある質問 / Frequently Asked Questions](FAQ)
++ [Discord](https://discord.gg/nGapSR7)
++ PR: [カメラ切替にはCine Switcherとの併用が大変便利です / Recommended to use Cine Switcher together for camera switching](https://booth.pm/ja/items/1654878)
+
+## 概要 / What is this?
+
+[バーチャルモーションキャプチャー](https://vmc.info/)からOSCで姿勢情報を受信してUnityシーンに反映するスクリプト群です。  
+You can reflect posture to your Unity scene of Virtual Motion Capture or VMC Protocol Applications.
+
+UnityPackage 1つで、新規導入、既存シーンへの導入も含め、簡単に導入することができます。  
+With a single Unity Package, you can easily handle both new and existing scenes.
+
+本ソフトウェアをもとに、[VMCProtocol](https://protocol.vmc.info/)が作成されました。  
+[VMCProtocol](https://protocol.vmc.info/) was created based on this software.
+
+Confirmed with Unity2019.4.29f1 (v3.8~)
+
+<img width="320px" src="https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity/blob/README-image/ExternalReceiver.gif?raw=true"></img> 
 <img src="https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity/blob/README-image/vmpc_logo_128x128.png?raw=true"></img>
-
-# [説明書とダウンロード方法](https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity/wiki)
-# [How to use(English)](https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity/wiki/How-to-use#how-to-use)
-# [お問合せ先(Discordサーバー)](https://discord.gg/nGapSR7)
-**バーチャルモーションキャプチャーとはサポート窓口が違いますのでご注意ください。  
-(作者が違います)**
-
-**動作にはsh_akiraさんのVirtualMotionCapture(v0.36～)が必要です。**  
-https://sh-akira.github.io/VirtualMotionCapture/download.html
-  
-## [かっこいいカメラ切替はCine Switcherが便利です](https://booth.pm/ja/items/1654878)
 <img src="https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity/blob/README-image/orange_pv/HDRP.gif?raw=true"></img>  
-  
-# Licence
-MIT Licence  
 
-以下のライブラリに依存しています。  
-
-+ [UniVRM - UniVRM, UniGLTF, UniHumanoid, MToon(MIT Licence)](https://github.com/vrm-c/UniVRM/blob/master/LICENSE.txt)
-+ [uOSC v0.0.2(MIT Licence)](https://github.com/hecomi/uOSC/blob/master/README.md)
-
-# 作者
+## 作者 / Auther
 gpsnmeajp  
 https://sabowl.sakura.ne.jp/gpsnmeajp/  
-
-<img width="320px" src="https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity/blob/README-image/ExternalReceiver.gif?raw=true"></img>
-
-# 関連情報
-## [UnrealEngine版はVMC4UE](https://github.com/HAL9HARUKU/VMC4UE)
