@@ -1,5 +1,13 @@
 # 使い方 / How to use
 
+## Menu
+
++ [使い方の動画(日本語) / Video (Japanese)](#videos_anchor)
++ [バーチャルモーションキャプチャーと使う / Use with Virtual Motion Capture](#use_with_vmc)
++ [VMCProtocol対応アプリケーションと使う / Use with VMCProtocol Applications](#use_with_vmcprotocol)
+
+<a name="videos_anchor"></a>
+
 ## 使い方の動画(日本語) / Video (Japanese)
 ### バーチャルモーションキャプチャーでの基本的な使い方 / Basic usage with Virtual Motion Capture
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DunqgLrUfpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -15,6 +23,7 @@ Camera movement within the video is accomplished with a cine switcher.
 ### VMCProtocolでの基本的な使い方 / Basic usage with VMCProtocol
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L5dkdnk5c9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<a name="use_with_vmc"></a>
 
 ## バーチャルモーションキャプチャーと使う / Use with Virtual Motion Capture
 
@@ -132,11 +141,12 @@ If it works properly, VRM will be automatically loaded on the Unity side.
 Have a fun!  
 
 
+<a name="use_with_vmcprotocol"></a>
 
 ## VMCProtocol対応アプリケーションと使う / Use with VMCProtocol Applications
 
 !!! note
-    VMCProtocol対応アプリケーションに関しては、各アプリケーションの説明を確認してください。
+    VMCProtocol対応アプリケーションに関しては、各アプリケーションの説明を確認してください。  
     For VMCProtocol compatible applications, please check the description of each application.
 
 ### 1. Unityを導入する / Install Unity
