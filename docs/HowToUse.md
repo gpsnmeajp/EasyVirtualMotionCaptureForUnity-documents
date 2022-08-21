@@ -23,6 +23,11 @@ Camera movement within the video is accomplished with a cine switcher.
 ### VMCProtocolでの基本的な使い方 / Basic usage with VMCProtocol
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L5dkdnk5c9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### STYLY Guide
+EVMC4UとEasyMotionRecorderでキャラクターのモーションを記録する方法  
+How to record a character's motion with EVMC4U  
+[https://styly.cc/ja/tips/evmc4u_easymotionrecorder_virtualmotioncapture/](https://styly.cc/ja/tips/evmc4u_easymotionrecorder_virtualmotioncapture/)
+
 <a name="use_with_vmc"></a>
 
 ## バーチャルモーションキャプチャーと使う / Use with Virtual Motion Capture
