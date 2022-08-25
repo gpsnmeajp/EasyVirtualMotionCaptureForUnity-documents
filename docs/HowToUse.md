@@ -6,6 +6,8 @@
 + [バーチャルモーションキャプチャーと使う / Use with Virtual Motion Capture](#use_with_vmc)
 + [VMCProtocol対応アプリケーションと使う / Use with VMCProtocol Applications](#use_with_vmcprotocol)
 
+Refer: [VMCProtocolのアプリケーション組み合わせ / VMCProtocol Application combinations](https://protocol.vmc.info/Combinations)
+
 <a name="videos_anchor"></a>
 
 ## 使い方の動画(日本語) / Video (Japanese)
