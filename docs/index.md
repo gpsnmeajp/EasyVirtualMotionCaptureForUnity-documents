@@ -9,7 +9,8 @@ description: EasyVirtualMotionCaptureForUnityの概要
 ## Menu
 
 + [ダウンロード / Download](Download)
-+ [使い方 / How to use](HowToUse)
++ [使い方(日本語)](HowToUse/Japanese)
++ [How to use (English)](HowToUse/English)
 + [利用条件 / Licence](Licence)
 + [上級者向けの使い方とサンプル / Advanced Use & Sample scripts](Advanced)
 + [よくある質問 / Frequently Asked Questions](FAQ)

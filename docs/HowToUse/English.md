@@ -1,22 +1,21 @@
-# 使い方 / How to use
+# How to use
 
 ## Menu
 
-+ [使い方の動画(日本語) / Video (Japanese)](#videos_anchor)
-+ [バーチャルモーションキャプチャーと使う / Use with Virtual Motion Capture](#use_with_vmc)
-+ [VMCProtocol対応アプリケーションと使う / Use with VMCProtocol Applications](#use_with_vmcprotocol)
++ [Video (Japanese)](#videos_anchor)
++ [Use with Virtual Motion Capture](#use_with_vmc)
++ [Use with VMCProtocol Applications](#use_with_vmcprotocol)
 
-Refer: [VMCProtocolのアプリケーション組み合わせ / VMCProtocol Application combinations](https://protocol.vmc.info/Combinations)
+Refer: [VMCProtocol Application combinations](https://protocol.vmc.info/Combinations)
 
 <a name="videos_anchor"></a>
 
-## 使い方の動画(日本語) / Video (Japanese)
-### バーチャルモーションキャプチャーでの基本的な使い方 / Basic usage with Virtual Motion Capture
+## Video (Japanese)
+### Basic usage with Virtual Motion Capture
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DunqgLrUfpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-PR: 動画内でのカメラの動きは、シネスイッチャーで実現されています。  
-Camera movement within the video is accomplished with a cine switcher.  
-[シネスイッチャーのダウンロードはこちらから / Download CineSwitcher here](https://booth.pm/ja/items/1654878)  
+PR: Camera movement within the video is accomplished with a cine switcher.  
+[Download CineSwitcher here](https://booth.pm/ja/items/1654878)  
 
 ### モーションの記録 / Motion Record
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZflM7H089vM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -52,14 +51,14 @@ How to record a character's motion with EVMC4U
 
 
 ### 1. Unityを導入する / Install Unity
-[トップページ](index.md) に記載のバージョン以上を使用してください。  
+[トップページ](/EasyVirtualMotionCaptureForUnit/index.md) に記載のバージョン以上を使用してください。  
 Please use version higher than that described in [top page](index.md).
 
 ### 2. EVMC4Uをダウンロードする / Download EVMC4U
-[ダウンロードページ](Download.md) よりダウンロードしてください。  
+[ダウンロードページ](/EasyVirtualMotionCaptureForUnit/Download.md) よりダウンロードしてください。  
 zip圧縮されている場合は、展開してください。  
 
-Please download from [Download page](Download.md).  
+Please download from [Download page](/EasyVirtualMotionCaptureForUnit/Download.md).  
 If it is zipped, unzip it.
 
 ### 3. 使用したいUnityプロジェクトを開く / Open your own Unity project
@@ -157,14 +156,14 @@ Have a fun!
     For VMCProtocol compatible applications, please check the description of each application.
 
 ### 1. Unityを導入する / Install Unity
-[トップページ](index.md) に記載のバージョン以上を使用してください。  
+[トップページ](/EasyVirtualMotionCaptureForUnit/index.md) に記載のバージョン以上を使用してください。  
 Please use version higher than that described in [top page](index.md).
 
 ### 2. EVMC4Uをダウンロードする / Download EVMC4U
-[ダウンロードページ](Download.md) よりダウンロードしてください。  
+[ダウンロードページ](/EasyVirtualMotionCaptureForUnit/Download.md) よりダウンロードしてください。  
 zip圧縮されている場合は、展開してください。  
 
-Please download from [Download page](Download.md).  
+Please download from [Download page](/EasyVirtualMotionCaptureForUnit/Download.md).  
 If it is zipped, unzip it.
 
 ### 3. 使用したいUnityプロジェクトを開く / Open your own Unity project
