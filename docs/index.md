@@ -22,17 +22,17 @@ description: EasyVirtualMotionCaptureForUnityの概要
 
 ## 概要 / What is this?
 
-[バーチャルモーションキャプチャー](https://vmc.info/)からOSCで姿勢情報を受信してUnityシーンに反映するスクリプト群です。  
 You can reflect posture to your Unity scene of Virtual Motion Capture or VMC Protocol Applications.
-
-UnityPackage 1つで、新規導入、既存シーンへの導入も含め、簡単に導入することができます。  
 With a single Unity Package, you can easily handle both new and existing scenes.
-
-本ソフトウェアをもとに、[VMCProtocol](https://protocol.vmc.info/)が作成されました。  
 [VMCProtocol](https://protocol.vmc.info/) was created based on this software.
 
+**Confirmed with Unity2019.4.29f1 (v3.8~)**
+
+[バーチャルモーションキャプチャー](https://vmc.info/)からOSCで姿勢情報を受信してUnityシーンに反映するスクリプト群です。  
+UnityPackage 1つで、新規導入、既存シーンへの導入も含め、簡単に導入することができます。  
+本ソフトウェアをもとに、[VMCProtocol](https://protocol.vmc.info/)が作成されました。  
+
 ** Unity2019.4.29f1 (v3.8~)で動作確認しています。**  
-Confirmed with Unity2019.4.29f1 (v3.8~)
 
 ## 作者 / Auther
 gpsnmeajp  
