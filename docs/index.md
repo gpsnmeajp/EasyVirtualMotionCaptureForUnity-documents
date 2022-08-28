@@ -6,11 +6,14 @@ description: EasyVirtualMotionCaptureForUnityの概要
 # EVMC4U - EasyVirtualMotionCaptureForUnity
 <img src="https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity/blob/README-image/title3.png?raw=true"></img>  
 
+<img width="320px" src="https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity/blob/README-image/ExternalReceiver.gif?raw=true"></img> 
+<img src="https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity/blob/README-image/vmpc_logo_128x128.png?raw=true"></img>
+<img src="https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity/blob/README-image/orange_pv/HDRP.gif?raw=true"></img>  
+
 ## Menu
 
 + [ダウンロード / Download](Download)
-+ [使い方(日本語)](HowToUse/Japanese)
-+ [How to use (English)](HowToUse/English)
++ [使い方 / How to use](HowToUse)
 + [利用条件 / Licence](Licence)
 + [上級者向けの使い方とサンプル / Advanced Use & Sample scripts](Advanced)
 + [よくある質問 / Frequently Asked Questions](FAQ)
@@ -30,10 +33,6 @@ With a single Unity Package, you can easily handle both new and existing scenes.
 
 ** Unity2019.4.29f1 (v3.8~)で動作確認しています。**  
 Confirmed with Unity2019.4.29f1 (v3.8~)
-
-<img width="320px" src="https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity/blob/README-image/ExternalReceiver.gif?raw=true"></img> 
-<img src="https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity/blob/README-image/vmpc_logo_128x128.png?raw=true"></img>
-<img src="https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity/blob/README-image/orange_pv/HDRP.gif?raw=true"></img>  
 
 ## 作者 / Auther
 gpsnmeajp  
